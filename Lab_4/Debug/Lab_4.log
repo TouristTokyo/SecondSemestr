@@ -1,0 +1,4 @@
+﻿  Lab_4.cpp
+C:\Users\пользователь\Desktop\Labs\Lab_4\Lab_4.cpp(34,32): warning C4101: index: неиспользованная локальная переменная
+C:\Users\пользователь\Desktop\Labs\Lab_4\Lab_4.cpp(34,19): warning C4101: newRow: неиспользованная локальная переменная
+  Lab_4.vcxproj -> C:\Users\пользователь\Desktop\Labs\Lab_4\Debug\Lab_4.exe
