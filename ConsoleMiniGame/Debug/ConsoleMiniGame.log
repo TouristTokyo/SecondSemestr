@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\пользователь\Desktop\Taski (не все)\ConsoleMiniGame\main.cpp(87,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  ConsoleMiniGame.vcxproj -> C:\Users\пользователь\Desktop\Taski (не все)\ConsoleMiniGame\Debug\ConsoleMiniGame.exe

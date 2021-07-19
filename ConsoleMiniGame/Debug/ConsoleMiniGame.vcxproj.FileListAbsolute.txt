@@ -1,0 +1,2 @@
+C:\Users\пользователь\Desktop\Taski (не все)\ConsoleMiniGame\Debug\ConsoleMiniGame.exe
+C:\Users\пользователь\Desktop\Taski (не все)\ConsoleMiniGame\Debug\ConsoleMiniGame.pdb
