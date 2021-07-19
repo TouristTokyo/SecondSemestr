@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\пользователь\Desktop\Taski (не все)\ConsoleMiniGame(FrogAndBombs)\main.cpp(20,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\пользователь\Desktop\Taski (не все)\ConsoleMiniGame(FrogAndBombs)\main.cpp(34,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleMiniGame(FrogAndBombs).vcxproj -> C:\Users\пользователь\Desktop\Taski (не все)\ConsoleMiniGame(FrogAndBombs)\Debug\ConsoleMiniGame(FrogAndBombs).exe

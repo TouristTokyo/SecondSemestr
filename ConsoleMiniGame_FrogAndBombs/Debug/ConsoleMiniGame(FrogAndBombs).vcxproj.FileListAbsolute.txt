@@ -1,0 +1,2 @@
+C:\Users\пользователь\Desktop\Taski (не все)\ConsoleMiniGame(FrogAndBombs)\Debug\ConsoleMiniGame(FrogAndBombs).exe
+C:\Users\пользователь\Desktop\Taski (не все)\ConsoleMiniGame(FrogAndBombs)\Debug\ConsoleMiniGame(FrogAndBombs).pdb
